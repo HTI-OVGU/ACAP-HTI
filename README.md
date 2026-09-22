@@ -1,6 +1,10 @@
 # Recreate the Versal Project for the Paper
 
-This repository contains the HLD source code required to create the base platform needed for the PPF bank.
+This repository contains the SystemVerilog source code necessary for creating the base platform and test setup for the Versal VCK190, enabling the use and testing of the PPF bank developed in collaboration with ASTRON (the Netherlands Institute for Radio Astronomy). This work resulted in the publication: "Exploring the Versal AI Engines for Signal Processing in Radio Astronomy" 
+
+The main repository for the project can be found here:
+[Main Repo](https://git.astron.nl/rd/acap)
+
 
 ## Requirements
 
